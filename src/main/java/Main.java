@@ -9,6 +9,7 @@ public class Main {
         Scanner sc=new Scanner(System.in);
         nesto=sc.next();
         System.out.println(nesto);
+        System.out.println("da li");
 
     }
 }
